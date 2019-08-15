@@ -1,0 +1,25 @@
+{
+  "name": "Dark and Pink",
+  "component": false,
+  "license_url": 'https://en.wikipedia.org/wiki/BSD_licenses#0-clause_license_("Zero_Clause_BSD")',
+  "about_url": null,
+  "authors": "Robert Teel",
+  "theme_version": "1.0",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "color_schemes": {
+	"Dark and Pink": {
+      "primary": "cccccc",
+      "secondary": "111111",
+      "tertiary": "c32969",
+      "quaternary": "9E9E9E",
+      "header_background": "000000",
+      "header_primary": "cccccc",
+      "highlight": "9E9E9E",
+      "danger": "96000e",
+      "success": "1ca551",
+      "love": "c32969"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
